@@ -1,1 +1,1 @@
-# smth_somewhere
+# Maze (using Graph_lib a.k.a. Stroustrup's FLTK modification)
